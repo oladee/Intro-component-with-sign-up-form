@@ -8,3 +8,8 @@ body{
     height: fit-content;
     background-color: hsl(0, 100%, 74%) ;
 }
+main{
+    padding: 5em 5em;
+    height: fit-content;
+    width: fit-content;
+}
