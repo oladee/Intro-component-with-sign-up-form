@@ -26,7 +26,46 @@ input{
     font-weight: 700;
     font-family: 'Poppins', sans-serif;
 }
+  input:required:invalid, input:focus:invalid {
+    background-image: url(./images/icon-error.svg);
+    background-position: right top;
+    background-repeat: no-repeat;
+    border: 2px solid red;
+    -moz-box-shadow: none;
+  }
 .terms{
     color: black;
     font-size: small;
+}
+button{
+    background-color: hsl(154, 59%, 51%);
+    color: white;
+    padding: 20px 48px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+}
+@media(min-width: 1024px){
+    main{
+        flex-wrap: nowrap;
+        padding:70px 150px 150px;
+    }
+    article{
+        padding-top: 200px;
+        width: 65%;
+
+    }
+    .text{
+        text-align: left;
+        font-size: 35px;
+    }
+    section{
+        width: 80%;
+    }
+    .try-it{
+        text-align: left;
+    }
+    input{
+        width: 80%;
+    }
 }
