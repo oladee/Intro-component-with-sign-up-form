@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/oladee/Intro-component-with-sign-up-form)
-- Live Site URL: [Add live site URL here](https://oladee.github.io/Intro-component-with-sign-up-form/)
+- Solution URL: [https://github.com/oladee/Intro-component-with-sign-up-form]()
+- Live Site URL: [https://oladee.github.io/Intro-component-with-sign-up-form/]()
 
 
 ### Built with
