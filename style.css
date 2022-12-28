@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./images/bg-intro-desktop.png);
+    background-size: cover;
+    height: fit-content;
+    background-color: hsl(0, 100%, 74%) ;
+}
